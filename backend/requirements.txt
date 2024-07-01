@@ -1,4 +1,4 @@
-Flask == "*"
-Flask-Cors == "*"
-pandas == "*"
+Flask
+Flask-Cors
+pandas
 keras==3.3.3
