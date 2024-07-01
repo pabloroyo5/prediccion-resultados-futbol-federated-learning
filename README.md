@@ -17,7 +17,7 @@ Antes de comenzar, debemos tener instalado en nuestro sistema lo siguiente:
 * Clona el repositorio:
 
     ```bash
-    git clone https://github.com/Azure-Samples/flask-vuejs-webapp.git
+    git clone https://github.com/pabloroyo5/prediccion-resultados-futbol-federated-learning.git
     ```
 
 * Configura el entorno virtual, instala las dependencias y actívalo:
